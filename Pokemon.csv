@@ -1,0 +1,719 @@
+#,Name,Type 1,Type 2,Habitat,Color,Body Style,Strong Against,Weak Against,Resistant to,Vulnerable to
+1,Bulbasaur,Grass,Poison,Grassland,Green,quadruped body,Water,Fire,Electric,Flying
+2,Ivysaur,Grass,Poison,Grassland,Green,quadruped body,Water,Fire,Electric,Flying
+3,Venusaur,Grass,Poison,Grassland,Green,quadruped body,Water,Fire,Electric,Flying
+4,Charmander,Fire,,Mountain,Red,bipedal,Grass,Water,Ice,Rock
+5,Charmeleon,Fire,,Mountain,Red,bipedal,Grass,Water,Ice,Rock
+6,Charizard,Fire,Flying,Mountain,Red,bipedal,Grass,Water,Ice,Rock
+7,Squirtle,Water,,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+8,Wartortle,Water,,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+9,Blastoise,Water,,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+10,Caterpie,Bug,,Forest,Green,insectoid body,Grass,Fighting,Ground,Fire
+11,Metapod,Bug,,Forest,Green,serpentine body,Grass,Fighting,Ground,Fire
+12,Butterfree,Bug,Flying,Forest,Blue,pairs of wings+,Grass,Fighting,Ground,Fire
+13,Weedle,Bug,Poison,Forest,Brown,insectoid body,Grass,Fighting,Ground,Fire
+14,Kakuna,Bug,Poison,Forest,Yellow,serpentine body,Grass,Fighting,Ground,Fire
+15,Beedrill,Bug,Poison,Forest,Yellow,pairs of wings+,Grass,Fighting,Ground,Fire
+16,Pidgey,Normal,Flying,Forest,Brown,pairs of wings,Nothing,Rock,Ghost,Fighting
+17,Pidgeotto,Normal,Flying,Forest,Brown,pairs of wings,Nothing,Rock,Ghost,Fighting
+18,Pidgeot,Normal,Flying,Forest,Brown,pairs of wings,Nothing,Rock,Ghost,Fighting
+19,Rattata,Normal,,Grassland,Purple,quadruped body,Nothing,Rock,Ghost,Fighting
+20,Raticate,Normal,,Grassland,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+21,Spearow,Normal,Flying,Rough-terrain,Brown,pairs of wings,Nothing,Rock,Ghost,Fighting
+22,Fearow,Normal,Flying,Rough-terrain,Brown,pairs of wings,Nothing,Rock,Ghost,Fighting
+23,Ekans,Poison,,Grassland,Purple,serpentine body,Fairy,Rock,Fighting,Ground
+24,Arbok,Poison,,Grassland,Purple,serpentine body,Fairy,Rock,Fighting,Ground
+25,Pikachu,Electric,,Forest,Yellow,quadruped body,Water,Grass,Steel,Ground
+26,Raichu,Electric,,Forest,Yellow,bipedal,Water,Grass,Steel,Ground
+27,Sandshrew,Ground,,Rough-terrain,Yellow,bipedal,Poison,Grass,Electric,Water
+28,Sandslash,Ground,,Rough-terrain,Yellow,bipedal,Poison,Grass,Electric,Water
+29,Nidoran♀,Poison,,Grassland,Blue,quadruped body,Fairy,Rock,Fighting,Ground
+30,Nidorina,Poison,,Grassland,Blue,quadruped body,Fairy,Rock,Fighting,Ground
+31,Nidoqueen,Poison,Ground,Grassland,Blue,bipedal,Fairy,Rock,Fighting,Ground
+32,Nidoran♂,Poison,,Grassland,Purple,quadruped body,Fairy,Rock,Fighting,Ground
+33,Nidorino,Poison,,Grassland,Purple,quadruped body,Fairy,Rock,Fighting,Ground
+34,Nidoking,Poison,Ground,Grassland,Purple,bipedal,Fairy,Rock,Fighting,Ground
+35,Clefairy,Fairy,,Mountain,Pink,bipedal,Dark,Poison,Fighting,Steel
+36,Clefable,Fairy,,Mountain,Pink,bipedal,Dark,Poison,Fighting,Steel
+37,Vulpix,Fire,,Grassland,Red,quadruped body,Grass,Water,Ice,Rock
+38,Ninetales,Fire,,Grassland,Yellow,quadruped body,Grass,Water,Ice,Rock
+39,Jigglypuff,Normal,Fairy,Grassland,Pink,bipedal,Nothing,Rock,Ghost,Fighting
+40,Wigglytuff,Normal,Fairy,Grassland,Pink,bipedal,Nothing,Rock,Ghost,Fighting
+41,Zubat,Poison,Flying,Cave,Purple,pairs of wings,Fairy,Rock,Fighting,Ground
+42,Golbat,Poison,Flying,Cave,Purple,pairs of wings,Fairy,Rock,Fighting,Ground
+43,Oddish,Grass,Poison,Grassland,Blue,head and legs,Water,Fire,Electric,Flying
+44,Gloom,Grass,Poison,Grassland,Blue,bipedal,Water,Fire,Electric,Flying
+45,Vileplume,Grass,Poison,Grassland,Red,bipedal,Water,Fire,Electric,Flying
+46,Paras,Bug,Grass,Forest,Red,insectoid body,Grass,Fighting,Ground,Fire
+47,Parasect,Bug,Grass,Forest,Red,insectoid body,Grass,Fighting,Ground,Fire
+48,Venonat,Bug,Poison,Forest,Purple,bipedal,Grass,Fighting,Ground,Fire
+49,Venomoth,Bug,Poison,Forest,Purple,pairs of wings+,Grass,Fighting,Ground,Fire
+50,Diglett,Ground,,Cave,Brown,head and base,Poison,Grass,Electric,Water
+51,Dugtrio,Ground,,Cave,Brown,multiple bodies,Poison,Grass,Electric,Water
+52,Meowth,Normal,,Urban,Yellow,quadruped body,Nothing,Rock,Ghost,Fighting
+53,Persian,Normal,,Urban,Yellow,quadruped body,Nothing,Rock,Ghost,Fighting
+54,Psyduck,Water,,Water's-edge,Yellow,bipedal,Rock,Grass,Fire,Electric
+55,Golduck,Water,,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+56,Mankey,Fighting,,Mountain,Brown,bipedal,Normal,Ghost,Rock,Psychic
+57,Primeape,Fighting,,Mountain,Brown,bipedal,Normal,Ghost,Rock,Psychic
+58,Growlithe,Fire,,Grassland,Red,quadruped body,Grass,Water,Ice,Rock
+59,Arcanine,Fire,,Grassland,Red,quadruped body,Grass,Water,Ice,Rock
+60,Poliwag,Water,,Water's-edge,Blue,head and legs,Rock,Grass,Fire,Electric
+61,Poliwhirl,Water,,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+62,Poliwrath,Water,Fighting,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+63,Abra,Psychic,,Urban,Yellow,bipedal,Fighting,Dark        ,Fighting,Ghost
+64,Kadabra,Psychic,,Urban,Yellow,bipedal,Fighting,Dark        ,Fighting,Ghost
+65,Alakazam,Psychic,,Urban,Yellow,bipedal,Fighting,Dark        ,Fighting,Ghost
+66,Machop,Fighting,,Mountain,Gray,bipedal,Normal,Ghost,Rock,Psychic
+67,Machoke,Fighting,,Mountain,Gray,bipedal,Normal,Ghost,Rock,Psychic
+68,Machamp,Fighting,,Mountain,Gray,bipedal,Normal,Ghost,Rock,Psychic
+69,Bellsprout,Grass,Poison,Forest,Green,bipedal,Water,Fire,Electric,Flying
+70,Weepinbell,Grass,Poison,Forest,Green,head and base,Water,Fire,Electric,Flying
+71,Victreebel,Grass,Poison,Forest,Green,head and base,Water,Fire,Electric,Flying
+72,Tentacool,Water,Poison,Sea,Blue,multiped body,Rock,Grass,Fire,Electric
+73,Tentacruel,Water,Poison,Sea,Blue,multiped body,Rock,Grass,Fire,Electric
+74,Geodude,Rock,Ground,Mountain,Gray,head and arms,Flying,Steel,Fire,Water
+75,Graveler,Rock,Ground,Mountain,Gray,bipedal,Flying,Steel,Fire,Water
+76,Golem,Rock,Ground,Mountain,Gray,bipedal,Flying,Steel,Fire,Water
+77,Ponyta,Fire,,Grassland,Red,quadruped body,Grass,Water,Ice,Rock
+78,Rapidash,Fire,,Grassland,Red,quadruped body,Grass,Water,Ice,Rock
+79,Slowpoke,Water,Psychic,Water's-edge,Pink,quadruped body,Rock,Grass,Fire,Electric
+80,Slowbro,Water,Psychic,Water's-edge,Pink,head and arms,Rock,Grass,Fire,Electric
+81,Magnemite,Electric,Steel,Rough-terrain,Gray,head and arms,Water,Grass,Steel,Ground
+82,Magneton,Electric,Steel,Rough-terrain,Gray,multiple bodies,Water,Grass,Steel,Ground
+83,Farfetch'd,Normal,Flying,Grassland,Brown,pairs of wings,Nothing,Rock,Ghost,Fighting
+84,Doduo,Normal,Flying,Grassland,Brown,head and legs,Nothing,Rock,Ghost,Fighting
+85,Dodrio,Normal,Flying,Grassland,Brown,head and legs,Nothing,Rock,Ghost,Fighting
+86,Seel,Water,,Sea,White,fins,Rock,Grass,Fire,Electric
+87,Dewgong,Water,Ice,Sea,White,fins,Rock,Grass,Fire,Electric
+88,Grimer,Poison,,Urban,Purple,head and arms,Fairy,Rock,Fighting,Ground
+89,Muk,Poison,,Urban,Purple,head and arms,Fairy,Rock,Fighting,Ground
+90,Shellder,Water,,Sea,Purple,only a head,Rock,Grass,Fire,Electric
+91,Cloyster,Water,Ice,Sea,Purple,only a head,Rock,Grass,Fire,Electric
+92,Gastly,Ghost,Poison,Cave,Purple,only a head,Psychic,Normal,Fighting,Dark
+93,Haunter,Ghost,Poison,Cave,Purple,head and arms,Psychic,Normal,Fighting,Dark
+94,Gengar,Ghost,Poison,Cave,Purple,bipedal,Psychic,Normal,Fighting,Dark
+95,Onix,Rock,Ground,Cave,Gray,serpentine body,Flying,Steel,Fire,Water
+96,Drowzee,Psychic,,Grassland,Yellow,bipedal,Fighting,Dark        ,Fighting,Ghost
+97,Hypno,Psychic,,Grassland,Yellow,bipedal,Fighting,Dark        ,Fighting,Ghost
+98,Krabby,Water,,Water's-edge,Red,insectoid body,Rock,Grass,Fire,Electric
+99,Kingler,Water,,Water's-edge,Red,insectoid body,Rock,Grass,Fire,Electric
+100,Voltorb,Electric,,Urban,Red,only a head,Water,Grass,Steel,Ground
+101,Electrode,Electric,,Urban,Red,only a head,Water,Grass,Steel,Ground
+102,Exeggcute,Grass,Psychic,Forest,Green,multiple bodies,Water,Fire,Electric,Flying
+103,Exeggutor,Grass,Psychic,Forest,Green,head and legs,Water,Fire,Electric,Flying
+104,Cubone,Ground,,Mountain,Brown,bipedal,Poison,Grass,Electric,Water
+105,Marowak,Ground,,Mountain,Brown,bipedal,Poison,Grass,Electric,Water
+106,Hitmonlee,Fighting,,Urban,Brown,bipedal,Normal,Ghost,Rock,Psychic
+107,Hitmonchan,Fighting,,Urban,Brown,bipedal,Normal,Ghost,Rock,Psychic
+108,Lickitung,Normal,,Grassland,Pink,bipedal,Nothing,Rock,Ghost,Fighting
+109,Koffing,Poison,,Urban,Purple,only a head,Fairy,Rock,Fighting,Ground
+110,Weezing,Poison,,Urban,Purple,multiple bodies,Fairy,Rock,Fighting,Ground
+111,Rhyhorn,Ground,Rock,Rough-terrain,Gray,quadruped body,Poison,Grass,Electric,Water
+112,Rhydon,Ground,Rock,Rough-terrain,Gray,bipedal,Poison,Grass,Electric,Water
+113,Chansey,Normal,,Urban,Pink,bipedal,Nothing,Rock,Ghost,Fighting
+114,Tangela,Grass,,Grassland,Blue,head and legs,Water,Fire,Electric,Flying
+115,Kangaskhan,Normal,,Grassland,Brown,bipedal,Nothing,Rock,Ghost,Fighting
+116,Horsea,Water,,Sea,Blue,head and base,Rock,Grass,Fire,Electric
+117,Seadra,Water,,Sea,Blue,head and base,Rock,Grass,Fire,Electric
+118,Goldeen,Water,,Water's-edge,Red,fins,Rock,Grass,Fire,Electric
+119,Seaking,Water,,Water's-edge,Red,fins,Rock,Grass,Fire,Electric
+120,Staryu,Water,,Sea,Brown,head and base,Rock,Grass,Fire,Electric
+121,Starmie,Water,Psychic,Sea,Purple,head and base,Rock,Grass,Fire,Electric
+122,Mr. Mime,Psychic,Fairy,Urban,Pink,bipedal,Fighting,Dark        ,Fighting,Ghost
+123,Scyther,Bug,Flying,Grassland,Green,pairs of wings+,Grass,Fighting,Ground,Fire
+124,Jynx,Ice,Psychic,Urban,Red,bipedal,Ground,Fire,Ice,Rock
+125,Electabuzz,Electric,,Grassland,Yellow,bipedal,Water,Grass,Steel,Ground
+126,Magmar,Fire,,Mountain,Red,bipedal,Grass,Water,Ice,Rock
+127,Pinsir,Bug,,Forest,Brown,pairs of wings+,Grass,Fighting,Ground,Fire
+128,Tauros,Normal,,Grassland,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+129,Magikarp,Water,,Water's-edge,Red,fins,Rock,Grass,Fire,Electric
+130,Gyarados,Water,Flying,Water's-edge,Blue,serpentine body,Rock,Grass,Fire,Electric
+131,Lapras,Water,Ice,Sea,Blue,fins,Rock,Grass,Fire,Electric
+132,Ditto,Normal,,Urban,Purple,only a head,Nothing,Rock,Ghost,Fighting
+133,Eevee,Normal,,Urban,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+134,Vaporeon,Water,,Urban,Blue,quadruped body,Rock,Grass,Fire,Electric
+135,Jolteon,Electric,,Urban,Yellow,quadruped body,Water,Grass,Steel,Ground
+136,Flareon,Fire,,Urban,Red,quadruped body,Grass,Water,Ice,Rock
+137,Porygon,Normal,,Urban,Pink,head and legs,Nothing,Rock,Ghost,Fighting
+138,Omanyte,Rock,Water,Sea,Blue,multiped body,Flying,Steel,Fire,Water
+139,Omastar,Rock,Water,Sea,Blue,multiped body,Flying,Steel,Fire,Water
+140,Kabuto,Rock,Water,Sea,Brown,insectoid body,Flying,Steel,Fire,Water
+141,Kabutops,Rock,Water,Sea,Brown,bipedal,Flying,Steel,Fire,Water
+142,Aerodactyl,Rock,Flying,Mountain,Purple,pairs of wings,Flying,Steel,Fire,Water
+143,Snorlax,Normal,,Mountain,Black,bipedal,Nothing,Rock,Ghost,Fighting
+144,Articuno,Ice,Flying,Rare,Blue,pairs of wings,Ground,Fire,Ice,Rock
+145,Zapdos,Electric,Flying,Rare,Yellow,pairs of wings,Water,Grass,Steel,Ground
+146,Moltres,Fire,Flying,Rare,Red,pairs of wings,Grass,Water,Ice,Rock
+147,Dratini,Dragon,,Water's-edge,Blue,serpentine body,Dragon,Steel,Fire,Poison
+148,Dragonair,Dragon,,Water's-edge,Blue,serpentine body,Dragon,Steel,Fire,Poison
+149,Dragonite,Dragon,Flying,Water's-edge,Brown,bipedal,Dragon,Steel,Fire,Poison
+150,Mewtwo,Psychic,,Rare,Purple,bipedal,Fighting,Dark        ,Fighting,Ghost
+151,Mew,Psychic,,Rare,Pink,bipedal,Fighting,Dark        ,Fighting,Ghost
+152,Chikorita,Grass,,Grassland,Green,quadruped body,Water,Fire,Electric,Flying
+153,Bayleef,Grass,,Grassland,Green,quadruped body,Water,Fire,Electric,Flying
+154,Meganium,Grass,,Grassland,Green,quadruped body,Water,Fire,Electric,Flying
+155,Cyndaquil,Fire,,Grassland,Red,bipedal,Grass,Water,Ice,Rock
+156,Quilava,Fire,,Grassland,Red,quadruped body,Grass,Water,Ice,Rock
+157,Typhlosion,Fire,,Grassland,Red,quadruped body,Grass,Water,Ice,Rock
+158,Totodile,Water,,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+159,Croconaw,Water,,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+160,Feraligatr,Water,,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+161,Sentret,Normal,,Grassland,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+162,Furret,Normal,,Grassland,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+163,Hoothoot,Normal,Flying,Forest,Brown,pairs of wings,Nothing,Rock,Ghost,Fighting
+164,Noctowl,Normal,Flying,Forest,Brown,pairs of wings,Nothing,Rock,Ghost,Fighting
+165,Ledyba,Bug,Flying,Forest,Red,pairs of wings,Grass,Fighting,Ground,Fire
+166,Ledian,Bug,Flying,Forest,Red,pairs of wings,Grass,Fighting,Ground,Fire
+167,Spinarak,Bug,Poison,Forest,Green,insectoid body,Grass,Fighting,Ground,Fire
+168,Ariados,Bug,Poison,Forest,Red,insectoid body,Grass,Fighting,Ground,Fire
+169,Crobat,Poison,Flying,Cave,Purple,pairs of wings+,Fairy,Rock,Fighting,Ground
+170,Chinchou,Water,Electric,Sea,Blue,fins,Rock,Grass,Fire,Electric
+171,Lanturn,Water,Electric,Sea,Blue,fins,Rock,Grass,Fire,Electric
+172,Pichu,Electric,,Forest,Yellow,quadruped body,Water,Grass,Steel,Ground
+173,Cleffa,Fairy,,Mountain,Pink,bipedal,Dark,Poison,Fighting,Steel
+174,Igglybuff,Normal,Fairy,Grassland,Pink,bipedal,Nothing,Rock,Ghost,Fighting
+175,Togepi,Fairy,,Forest,White,bipedal,Dark,Poison,Fighting,Steel
+176,Togetic,Fairy,Flying,Forest,White,bipedal,Dark,Poison,Fighting,Steel
+177,Natu,Psychic,Flying,Forest,Green,pairs of wings,Fighting,Dark        ,Fighting,Ghost
+178,Xatu,Psychic,Flying,Forest,Green,pairs of wings,Fighting,Dark        ,Fighting,Ghost
+179,Mareep,Electric,,Grassland,Yellow,quadruped body,Water,Grass,Steel,Ground
+180,Flaaffy,Electric,,Grassland,Yellow,bipedal,Water,Grass,Steel,Ground
+181,Ampharos,Electric,,Grassland,Yellow,bipedal,Water,Grass,Steel,Ground
+182,Bellossom,Grass,,Grassland,Green,bipedal,Water,Fire,Electric,Flying
+183,Marill,Water,Fairy,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+184,Azumarill,Water,Fairy,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+185,Sudowoodo,Rock,,Forest,Brown,bipedal,Flying,Steel,Fire,Water
+186,Politoed,Water,,Water's-edge,Green,bipedal,Rock,Grass,Fire,Electric
+187,Hoppip,Grass,Flying,Grassland,Pink,bipedal,Water,Fire,Electric,Flying
+188,Skiploom,Grass,Flying,Grassland,Green,bipedal,Water,Fire,Electric,Flying
+189,Jumpluff,Grass,Flying,Grassland,Blue,bipedal,Water,Fire,Electric,Flying
+190,Aipom,Normal,,Forest,Purple,bipedal,Nothing,Rock,Ghost,Fighting
+191,Sunkern,Grass,,Grassland,Yellow,only a head,Water,Fire,Electric,Flying
+192,Sunflora,Grass,,Grassland,Yellow,bipedal,Water,Fire,Electric,Flying
+193,Yanma,Bug,Flying,Forest,Red,pairs of wings+,Grass,Fighting,Ground,Fire
+194,Wooper,Water,Ground,Water's-edge,Blue,head and legs,Rock,Grass,Fire,Electric
+195,Quagsire,Water,Ground,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+196,Espeon,Psychic,,Urban,Purple,quadruped body,Fighting,Dark        ,Fighting,Ghost
+197,Umbreon,Dark,,Urban,Black,quadruped body,Psychic,Fairy,Ghost,Fighting
+198,Murkrow,Dark,Flying,Forest,Black,pairs of wings,Psychic,Fairy,Ghost,Fighting
+199,Slowking,Water,Psychic,Water's-edge,Pink,bipedal,Rock,Grass,Fire,Electric
+200,Misdreavus,Ghost,,Cave,Black,only a head,Psychic,Normal,Fighting,Dark
+201,Unown,Psychic,,Rare,Black,only a head,Fighting,Dark        ,Fighting,Ghost
+202,Wobbuffet,Psychic,,Cave,Blue,head and base,Fighting,Dark        ,Fighting,Ghost
+203,Girafarig,Normal,Psychic,Grassland,Yellow,quadruped body,Nothing,Rock,Ghost,Fighting
+204,Pineco,Bug,,Forest,Gray,only a head,Grass,Fighting,Ground,Fire
+205,Forretress,Bug,Steel,Forest,Purple,only a head,Grass,Fighting,Ground,Fire
+206,Dunsparce,Normal,,Cave,Yellow,serpentine body,Nothing,Rock,Ghost,Fighting
+207,Gligar,Ground,Flying,Mountain,Pink,pairs of wings,Poison,Grass,Electric,Water
+208,Steelix,Steel,Ground,Cave,Gray,serpentine body,Fairy,Electric,Dragon,Fire
+209,Snubbull,Fairy,,Urban,Pink,bipedal,Dark,Poison,Fighting,Steel
+210,Granbull,Fairy,,Urban,Purple,bipedal,Dark,Poison,Fighting,Steel
+211,Qwilfish,Water,Poison,Sea,Gray,fins,Rock,Grass,Fire,Electric
+212,Scizor,Bug,Steel,Grassland,Red,pairs of wings+,Grass,Fighting,Ground,Fire
+213,Shuckle,Bug,Rock,Mountain,Yellow,insectoid body,Grass,Fighting,Ground,Fire
+214,Heracross,Bug,Fighting,Forest,Blue,bipedal,Grass,Fighting,Ground,Fire
+215,Sneasel,Dark,Ice,Forest,Black,bipedal,Psychic,Fairy,Ghost,Fighting
+216,Teddiursa,Normal,,Mountain,Brown,bipedal,Nothing,Rock,Ghost,Fighting
+217,Ursaring,Normal,,Mountain,Brown,bipedal,Nothing,Rock,Ghost,Fighting
+218,Slugma,Fire,,Mountain,Red,serpentine body,Grass,Water,Ice,Rock
+219,Magcargo,Fire,Rock,Mountain,Red,serpentine body,Grass,Water,Ice,Rock
+220,Swinub,Ice,Ground,Cave,Brown,quadruped body,Ground,Fire,Ice,Rock
+221,Piloswine,Ice,Ground,Cave,Brown,quadruped body,Ground,Fire,Ice,Rock
+222,Corsola,Water,Rock,Sea,Pink,insectoid body,Rock,Grass,Fire,Electric
+223,Remoraid,Water,,Sea,Gray,fins,Rock,Grass,Fire,Electric
+224,Octillery,Water,,Sea,Red,multiped body,Rock,Grass,Fire,Electric
+225,Delibird,Ice,Flying,Mountain,Red,pairs of wings,Ground,Fire,Ice,Rock
+226,Mantine,Water,Flying,Sea,Purple,pairs of wings,Rock,Grass,Fire,Electric
+227,Skarmory,Steel,Flying,Rough-terrain,Gray,pairs of wings,Fairy,Electric,Dragon,Fire
+228,Houndour,Dark,Fire,Rough-terrain,Black,quadruped body,Psychic,Fairy,Ghost,Fighting
+229,Houndoom,Dark,Fire,Rough-terrain,Black,quadruped body,Psychic,Fairy,Ghost,Fighting
+230,Kingdra,Water,Dragon,Sea,Blue,head and base,Rock,Grass,Fire,Electric
+231,Phanpy,Ground,,Rough-terrain,Blue,quadruped body,Poison,Grass,Electric,Water
+232,Donphan,Ground,,Rough-terrain,Gray,quadruped body,Poison,Grass,Electric,Water
+233,Porygon2,Normal,,Urban,Red,head and legs,Nothing,Rock,Ghost,Fighting
+234,Stantler,Normal,,Forest,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+235,Smeargle,Normal,,Urban,White,bipedal,Nothing,Rock,Ghost,Fighting
+236,Tyrogue,Fighting,,Urban,Purple,bipedal,Normal,Ghost,Rock,Psychic
+237,Hitmontop,Fighting,,Urban,Brown,bipedal,Normal,Ghost,Rock,Psychic
+238,Smoochum,Ice,Psychic,Urban,Pink,bipedal,Ground,Fire,Ice,Rock
+239,Elekid,Electric,,Grassland,Yellow,bipedal,Water,Grass,Steel,Ground
+240,Magby,Fire,,Mountain,Red,bipedal,Grass,Water,Ice,Rock
+241,Miltank,Normal,,Grassland,Pink,bipedal,Nothing,Rock,Ghost,Fighting
+242,Blissey,Normal,,Urban,Pink,bipedal,Nothing,Rock,Ghost,Fighting
+243,Raikou,Electric,,Grassland,Yellow,quadruped body,Water,Grass,Steel,Ground
+244,Entei,Fire,,Grassland,Red,quadruped body,Grass,Water,Ice,Rock
+245,Suicune,Water,,Grassland,Blue,quadruped body,Rock,Grass,Fire,Electric
+246,Larvitar,Rock,Ground,Mountain,Green,bipedal,Flying,Steel,Fire,Water
+247,Pupitar,Rock,Ground,Mountain,Green,serpentine body,Flying,Steel,Fire,Water
+248,Tyranitar,Rock,Dark,Mountain,Green,bipedal,Flying,Steel,Fire,Water
+249,Lugia,Psychic,Flying,Rare,White,pairs of wings,Fighting,Dark        ,Fighting,Ghost
+250,Ho-oh,Fire,Flying,Rare,Red,pairs of wings,Grass,Water,Ice,Rock
+251,Celebi,Psychic,Grass,Forest,Green,bipedal,Fighting,Dark        ,Fighting,Ghost
+252,Treecko,Grass,,Forest,Green,bipedal,Water,Fire,Electric,Flying
+253,Grovyle,Grass,,Forest,Green,bipedal,Water,Fire,Electric,Flying
+254,Sceptile,Grass,,Forest,Green,bipedal,Water,Fire,Electric,Flying
+255,Torchic,Fire,,Grassland,Red,head and legs,Grass,Water,Ice,Rock
+256,Combusken,Fire,Fighting,Grassland,Red,bipedal,Grass,Water,Ice,Rock
+257,Blaziken,Fire,Fighting,Grassland,Red,bipedal,Grass,Water,Ice,Rock
+258,Mudkip,Water,,Water's-edge,Blue,quadruped body,Rock,Grass,Fire,Electric
+259,Marshtomp,Water,Ground,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+260,Swampert,Water,Ground,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+261,Poochyena,Dark,,Grassland,Gray,quadruped body,Psychic,Fairy,Ghost,Fighting
+262,Mightyena,Dark,,Grassland,Gray,quadruped body,Psychic,Fairy,Ghost,Fighting
+263,Zigzagoon,Normal,,Grassland,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+264,Linoone,Normal,,Grassland,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+265,Wurmple,Bug,,Forest,Red,insectoid body,Grass,Fighting,Ground,Fire
+266,Silcoon,Bug,,Forest,White,only a head,Grass,Fighting,Ground,Fire
+267,Beautifly,Bug,Flying,Forest,Yellow,pairs of wings+,Grass,Fighting,Ground,Fire
+268,Cascoon,Bug,,Forest,Purple,only a head,Grass,Fighting,Ground,Fire
+269,Dustox,Bug,Poison,Forest,Green,pairs of wings+,Grass,Fighting,Ground,Fire
+270,Lotad,Water,Grass,Water's-edge,Green,insectoid body,Rock,Grass,Fire,Electric
+271,Lombre,Water,Grass,Water's-edge,Green,bipedal,Rock,Grass,Fire,Electric
+272,Ludicolo,Water,Grass,Water's-edge,Green,bipedal,Rock,Grass,Fire,Electric
+273,Seedot,Grass,,Forest,Brown,head and legs,Water,Fire,Electric,Flying
+274,Nuzleaf,Grass,Dark,Forest,Green,bipedal,Water,Fire,Electric,Flying
+275,Shiftry,Grass,Dark,Forest,Brown,bipedal,Water,Fire,Electric,Flying
+276,Taillow,Normal,Flying,Grassland,Blue,pairs of wings,Nothing,Rock,Ghost,Fighting
+277,Swellow,Normal,Flying,Grassland,Blue,pairs of wings,Nothing,Rock,Ghost,Fighting
+278,Wingull,Water,Flying,Sea,White,pairs of wings,Rock,Grass,Fire,Electric
+279,Pelipper,Water,Flying,Sea,Yellow,pairs of wings,Rock,Grass,Fire,Electric
+280,Ralts,Psychic,Fairy,Urban,White,bipedal,Fighting,Dark        ,Fighting,Ghost
+281,Kirlia,Psychic,Fairy,Urban,White,bipedal,Fighting,Dark        ,Fighting,Ghost
+282,Gardevoir,Psychic,Fairy,Urban,White,bipedal,Fighting,Dark        ,Fighting,Ghost
+283,Surskit,Bug,Water,Water's-edge,Blue,insectoid body,Grass,Fighting,Ground,Fire
+284,Masquerain,Bug,Flying,Water's-edge,Blue,pairs of wings+,Grass,Fighting,Ground,Fire
+285,Shroomish,Grass,,Forest,Brown,head and legs,Water,Fire,Electric,Flying
+286,Breloom,Grass,Fighting,Forest,Green,bipedal,Water,Fire,Electric,Flying
+287,Slakoth,Normal,,Forest,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+288,Vigoroth,Normal,,Forest,White,bipedal,Nothing,Rock,Ghost,Fighting
+289,Slaking,Normal,,Forest,White,bipedal,Nothing,Rock,Ghost,Fighting
+290,Nincada,Bug,Ground,Forest,Gray,insectoid body,Grass,Fighting,Ground,Fire
+291,Ninjask,Bug,Flying,Forest,Yellow,pairs of wings+,Grass,Fighting,Ground,Fire
+292,Shedinja,Bug,Ghost,Forest,Brown,head and base,Grass,Fighting,Ground,Fire
+293,Whismur,Normal,,Cave,Pink,bipedal,Nothing,Rock,Ghost,Fighting
+294,Loudred,Normal,,Cave,Blue,bipedal,Nothing,Rock,Ghost,Fighting
+295,Exploud,Normal,,Cave,Blue,bipedal,Nothing,Rock,Ghost,Fighting
+296,Makuhita,Fighting,,Mountain,Yellow,bipedal,Normal,Ghost,Rock,Psychic
+297,Hariyama,Fighting,,Mountain,Brown,bipedal,Normal,Ghost,Rock,Psychic
+298,Azurill,Normal,Fairy,Water's-edge,Blue,head and legs,Nothing,Rock,Ghost,Fighting
+299,Nosepass,Rock,,Cave,Gray,bipedal,Flying,Steel,Fire,Water
+300,Skitty,Normal,,Forest,Pink,quadruped body,Nothing,Rock,Ghost,Fighting
+301,Delcatty,Normal,,Forest,Purple,quadruped body,Nothing,Rock,Ghost,Fighting
+302,Sableye,Dark,Ghost,Cave,Purple,bipedal,Psychic,Fairy,Ghost,Fighting
+303,Mawile,Steel,Fairy,Cave,Black,bipedal,Fairy,Electric,Dragon,Fire
+304,Aron,Steel,Rock,Mountain,Gray,quadruped body,Fairy,Electric,Dragon,Fire
+305,Lairon,Steel,Rock,Mountain,Gray,quadruped body,Fairy,Electric,Dragon,Fire
+306,Aggron,Steel,Rock,Mountain,Gray,bipedal,Fairy,Electric,Dragon,Fire
+307,Meditite,Fighting,Psychic,Mountain,Blue,bipedal,Normal,Ghost,Rock,Psychic
+308,Medicham,Fighting,Psychic,Mountain,Red,bipedal,Normal,Ghost,Rock,Psychic
+309,Electrike,Electric,,Grassland,Green,quadruped body,Water,Grass,Steel,Ground
+310,Manectric,Electric,,Grassland,Yellow,quadruped body,Water,Grass,Steel,Ground
+311,Plusle,Electric,,Grassland,Yellow,bipedal,Water,Grass,Steel,Ground
+312,Minun,Electric,,Grassland,Yellow,bipedal,Water,Grass,Steel,Ground
+313,Volbeat,Bug,,Forest,Gray,bipedal,Grass,Fighting,Ground,Fire
+314,Illumise,Bug,,Forest,Purple,bipedal,Grass,Fighting,Ground,Fire
+315,Roselia,Grass,Poison,Grassland,Green,bipedal,Water,Fire,Electric,Flying
+316,Gulpin,Poison,,Grassland,Green,head and arms,Fairy,Rock,Fighting,Ground
+317,Swalot,Poison,,Grassland,Purple,head and arms,Fairy,Rock,Fighting,Ground
+318,Carvanha,Water,Dark,Sea,Red,fins,Rock,Grass,Fire,Electric
+319,Sharpedo,Water,Dark,Sea,Blue,fins,Rock,Grass,Fire,Electric
+320,Wailmer,Water,,Sea,Blue,fins,Rock,Grass,Fire,Electric
+321,Wailord,Water,,Sea,Blue,fins,Rock,Grass,Fire,Electric
+322,Numel,Fire,Ground,Mountain,Yellow,quadruped body,Grass,Water,Ice,Rock
+323,Camerupt,Fire,Ground,Mountain,Red,quadruped body,Grass,Water,Ice,Rock
+324,Torkoal,Fire,,Mountain,Red,quadruped body,Grass,Water,Ice,Rock
+325,Spoink,Psychic,,Mountain,Black,head and arms,Fighting,Dark        ,Fighting,Ghost
+326,Grumpig,Psychic,,Mountain,Purple,bipedal,Fighting,Dark        ,Fighting,Ghost
+327,Spinda,Normal,,Mountain,Brown,bipedal,Nothing,Rock,Ghost,Fighting
+328,Trapinch,Ground,,Rough-terrain,Brown,insectoid body,Poison,Grass,Electric,Water
+329,Vibrava,Ground,Dragon,Rough-terrain,Green,pairs of wings+,Poison,Grass,Electric,Water
+330,Flygon,Ground,Dragon,Rough-terrain,Green,pairs of wings,Poison,Grass,Electric,Water
+331,Cacnea,Grass,,Rough-terrain,Green,bipedal,Water,Fire,Electric,Flying
+332,Cacturne,Grass,Dark,Rough-terrain,Green,bipedal,Water,Fire,Electric,Flying
+333,Swablu,Normal,Flying,Forest,Blue,pairs of wings,Nothing,Rock,Ghost,Fighting
+334,Altaria,Dragon,Flying,Forest,Blue,pairs of wings,Dragon,Steel,Fire,Poison
+335,Zangoose,Normal,,Grassland,White,bipedal,Nothing,Rock,Ghost,Fighting
+336,Seviper,Poison,,Grassland,Black,serpentine body,Fairy,Rock,Fighting,Ground
+337,Lunatone,Rock,Psychic,Cave,Yellow,only a head,Flying,Steel,Fire,Water
+338,Solrock,Rock,Psychic,Cave,Red,only a head,Flying,Steel,Fire,Water
+339,Barboach,Water,Ground,Water's-edge,Blue,fins,Rock,Grass,Fire,Electric
+340,Whiscash,Water,Ground,Water's-edge,Blue,fins,Rock,Grass,Fire,Electric
+341,Corphish,Water,,Water's-edge,Red,insectoid body,Rock,Grass,Fire,Electric
+342,Crawdaunt,Water,Dark,Water's-edge,Red,insectoid body,Rock,Grass,Fire,Electric
+343,Baltoy,Ground,Psychic,Rough-terrain,Brown,head and arms,Poison,Grass,Electric,Water
+344,Claydol,Ground,Psychic,Rough-terrain,Black,head and arms,Poison,Grass,Electric,Water
+345,Lileep,Rock,Grass,Sea,Purple,head and base,Flying,Steel,Fire,Water
+346,Cradily,Rock,Grass,Sea,Green,head and base,Flying,Steel,Fire,Water
+347,Anorith,Rock,Bug,Water's-edge,Gray,insectoid body,Flying,Steel,Fire,Water
+348,Armaldo,Rock,Bug,Water's-edge,Gray,bipedal,Flying,Steel,Fire,Water
+349,Feebas,Water,,Water's-edge,Brown,fins,Rock,Grass,Fire,Electric
+350,Milotic,Water,,Water's-edge,Blue,serpentine body,Rock,Grass,Fire,Electric
+351,Castform,Normal,,Grassland,Gray,only a head,Nothing,Rock,Ghost,Fighting
+352,Kecleon,Normal,,Forest,Green,bipedal,Nothing,Rock,Ghost,Fighting
+353,Shuppet,Ghost,,Urban,Black,only a head,Psychic,Normal,Fighting,Dark
+354,Banette,Ghost,,Urban,Black,bipedal,Psychic,Normal,Fighting,Dark
+355,Duskull,Ghost,,Forest,Black,head and arms,Psychic,Normal,Fighting,Dark
+356,Dusclops,Ghost,,Forest,Black,bipedal,Psychic,Normal,Fighting,Dark
+357,Tropius,Grass,Flying,Forest,Green,quadruped body,Water,Fire,Electric,Flying
+358,Chimecho,Psychic,,Grassland,Blue,head and arms,Fighting,Dark        ,Fighting,Ghost
+359,Absol,Dark,,Mountain,White,quadruped body,Psychic,Fairy,Ghost,Fighting
+360,Wynaut,Psychic,,Cave,Blue,bipedal,Fighting,Dark        ,Fighting,Ghost
+361,Snorunt,Ice,,Cave,White,bipedal,Ground,Fire,Ice,Rock
+362,Glalie,Ice,,Cave,White,only a head,Ground,Fire,Ice,Rock
+363,Spheal,Ice,Water,Sea,Blue,fins,Ground,Fire,Ice,Rock
+364,Sealeo,Ice,Water,Sea,Blue,fins,Ground,Fire,Ice,Rock
+365,Walrein,Ice,Water,Sea,Blue,quadruped body,Ground,Fire,Ice,Rock
+366,Clamperl,Water,,Sea,Blue,only a head,Rock,Grass,Fire,Electric
+367,Huntail,Water,,Sea,Blue,serpentine body,Rock,Grass,Fire,Electric
+368,Gorebyss,Water,,Sea,Pink,serpentine body,Rock,Grass,Fire,Electric
+369,Relicanth,Water,Rock,Sea,Gray,fins,Rock,Grass,Fire,Electric
+370,Luvdisc,Water,,Sea,Pink,fins,Rock,Grass,Fire,Electric
+371,Bagon,Dragon,,Rough-terrain,Blue,bipedal,Dragon,Steel,Fire,Poison
+372,Shelgon,Dragon,,Rough-terrain,White,quadruped body,Dragon,Steel,Fire,Poison
+373,Salamence,Dragon,Flying,Rough-terrain,Blue,quadruped body,Dragon,Steel,Fire,Poison
+374,Beldum,Steel,Psychic,Rough-terrain,Blue,head and base,Fairy,Electric,Dragon,Fire
+375,Metang,Steel,Psychic,Rough-terrain,Blue,head and arms,Fairy,Electric,Dragon,Fire
+376,Metagross,Steel,Psychic,Rough-terrain,Blue,multiple bodies,Fairy,Electric,Dragon,Fire
+377,Regirock,Rock,,Cave,Brown,bipedal,Flying,Steel,Fire,Water
+378,Regice,Ice,,Cave,Blue,bipedal,Ground,Fire,Ice,Rock
+379,Registeel,Steel,,Cave,Gray,bipedal,Fairy,Electric,Dragon,Fire
+380,Latias,Dragon,Psychic,Water's-edge,Red,pairs of wings,Dragon,Steel,Fire,Poison
+381,Latios,Dragon,Psychic,Water's-edge,Blue,pairs of wings,Dragon,Steel,Fire,Poison
+382,Kyogre,Water,,Sea,Blue,fins,Rock,Grass,Fire,Electric
+383,Groudon,Ground,,Rough-terrain,Red,bipedal,Poison,Grass,Electric,Water
+384,Rayquaza,Dragon,Flying,Rare,Green,serpentine body,Dragon,Steel,Fire,Poison
+385,Jirachi,Steel,Psychic,Mountain,Yellow,bipedal,Fairy,Electric,Dragon,Fire
+386,Deoxys,Psychic,,Rare,Red,bipedal,Fighting,Dark        ,Fighting,Ghost
+387,Turtwig,Grass,,Forest,Green,quadruped body,Water,Fire,Electric,Flying
+388,Grotle,Grass,,Forest,Green,quadruped body,Water,Fire,Electric,Flying
+389,Torterra,Grass,Ground,Forest,Green,quadruped body,Water,Fire,Electric,Flying
+390,Chimchar,Fire,,Mountain,Red,bipedal,Grass,Water,Ice,Rock
+391,Monferno,Fire,Fighting,Mountain,Red,bipedal,Grass,Water,Ice,Rock
+392,Infernape,Fire,Fighting,Mountain,Red,bipedal,Grass,Water,Ice,Rock
+393,Piplup,Water,,Sea,Blue,bipedal,Rock,Grass,Fire,Electric
+394,Prinplup,Water,,Sea,Blue,bipedal,Rock,Grass,Fire,Electric
+395,Empoleon,Water,Steel,Sea,Blue,bipedal,Rock,Grass,Fire,Electric
+396,Starly,Normal,Flying,Mountain,Brown,pairs of wings,Nothing,Rock,Ghost,Fighting
+397,Staravia,Normal,Flying,Mountain,Brown,pairs of wings,Nothing,Rock,Ghost,Fighting
+398,Staraptor,Normal,Flying,Mountain,Brown,pairs of wings,Nothing,Rock,Ghost,Fighting
+399,Bidoof,Normal,,Water's-edge,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+400,Bibarel,Normal,Water,Water's-edge,Brown,bipedal,Nothing,Rock,Ghost,Fighting
+401,Kricketot,Bug,,Florest,Red,bipedal,Grass,Fighting,Ground,Fire
+402,Kricketune,Bug,,Florest,Red,pairs of wings+,Grass,Fighting,Ground,Fire
+403,Shinx,Electric,,Grassland,Blue,quadruped body,Water,Grass,Steel,Ground
+404,Luxio,Electric,,Grassland,Blue,quadruped body,Water,Grass,Steel,Ground
+405,Luxray,Electric,,Grassland,Blue,quadruped body,Water,Grass,Steel,Ground
+406,Budew,Grass,Poison,Florest,Green,bipedal,Water,Fire,Electric,Flying
+407,Roserade,Grass,Poison,Florest,Green,bipedal,Water,Fire,Electric,Flying
+408,Cranidos,Rock,,Mountain,Blue,bipedal,Flying,Steel,Fire,Water
+409,Rampardos,Rock,,Mountain,Blue,bipedal,Flying,Steel,Fire,Water
+410,Shieldon,Rock,Steel,Mountain,Gray,quadruped body,Flying,Steel,Fire,Water
+411,Bastiodon,Rock,Steel,Mountain,Gray,quadruped body,Flying,Steel,Fire,Water
+412,Burmy,Bug,,Forest,Green,head and base,Grass,Fighting,Ground,Fire
+413,Wormadam,Bug,Steel,Forest,Green,head and base,Grass,Fighting,Ground,Fire
+414,Mothim,Bug,Flying,Forest,Yellow,pairs of wings+,Grass,Fighting,Ground,Fire
+415,Combee,Bug,Flying,Forest,Yellow,multiple bodies,Grass,Fighting,Ground,Fire
+416,Vespiquen,Bug,Flying,Forest,Yellow,pairs of wings+,Grass,Fighting,Ground,Fire
+417,Pachirisu,Electric,,Forest,White,quadruped body,Water,Grass,Steel,Ground
+418,Buizel,Water,,Water's-edge,Brown,quadruped body,Rock,Grass,Fire,Electric
+419,Floatzel,Water,,Water's-edge,Brown,quadruped body,Rock,Grass,Fire,Electric
+420,Cherubi,Grass,,Forest,Pink,multiple bodies,Water,Fire,Electric,Flying
+421,Cherrim,Grass,,Forest,Purple,head and legs,Water,Fire,Electric,Flying
+422,Shellos,Water,,Sea,Blue,serpentine body,Rock,Grass,Fire,Electric
+423,Gastrodon,Water,Ground,Sea,Blue,serpentine body,Rock,Grass,Fire,Electric
+424,Ambipom,Normal,,Forest,Purple,bipedal,Nothing,Rock,Ghost,Fighting
+425,Drifloon,Ghost,Flying,Mountain,Purple,head and arms,Psychic,Normal,Fighting,Dark
+426,Drifblim,Ghost,Flying,Mountain,Purple,head and arms,Psychic,Normal,Fighting,Dark
+427,Buneary,Normal,,Forest,Brown,bipedal,Nothing,Rock,Ghost,Fighting
+428,Lopunny,Normal,,Forest,Brown,bipedal,Nothing,Rock,Ghost,Fighting
+429,Mismagius,Ghost,,Forest,Purple,only a head,Psychic,Normal,Fighting,Dark
+430,Honchkrow,Dark,Flying,Forest,Black,pairs of wings,Psychic,Fairy,Ghost,Fighting
+431,Glameow,Normal,,Forest,Gray,quadruped body,Nothing,Rock,Ghost,Fighting
+432,Purugly,Normal,,Forest,Gray,quadruped body,Nothing,Rock,Ghost,Fighting
+433,Chingling,Psychic,,Grassland,Yellow,bipedal,Fighting,Dark        ,Fighting,Ghost
+434,Stunky,Poison,Dark,Forest,Purple,quadruped body,Fairy,Rock,Fighting,Ground
+435,Skuntank,Poison,Dark,Forest,Purple,quadruped body,Fairy,Rock,Fighting,Ground
+436,Bronzor,Steel,Psychic,Cave,Green,only a head,Fairy,Electric,Dragon,Fire
+437,Bronzong,Steel,Psychic,Cave,Green,head and arms,Fairy,Electric,Dragon,Fire
+438,Bonsly,Rock,,Mountain,Brown,head and legs,Flying,Steel,Fire,Water
+439,Mime Jr.,Psychic,Fairy,Urban,Pink,bipedal,Fighting,Dark        ,Fighting,Ghost
+440,Happiny,Normal,,Forest,Pink,bipedal,Nothing,Rock,Ghost,Fighting
+441,Chatot,Normal,Flying,Forest,Black,pairs of wings,Nothing,Rock,Ghost,Fighting
+442,Spiritomb,Ghost,Dark,Urban,Purple,head and base,Psychic,Normal,Fighting,Dark
+443,Gible,Dragon,Ground,Cave,Blue,bipedal,Dragon,Steel,Fire,Poison
+444,Gabite,Dragon,Ground,Cave,Blue,bipedal,Dragon,Steel,Fire,Poison
+445,Garchomp,Dragon,Ground,Cave,Blue,bipedal,Dragon,Steel,Fire,Poison
+446,Munchlax,Normal,,Mountain,Black,bipedal,Nothing,Rock,Ghost,Fighting
+447,Riolu,Fighting,,Mountain,Blue,bipedal,Normal,Ghost,Rock,Psychic
+448,Lucario,Fighting,Steel,Mountain,Blue,bipedal,Normal,Ghost,Rock,Psychic
+449,Hippopotas,Ground,,Water's-edge,Brown,quadruped body,Poison,Grass,Electric,Water
+450,Hippowdon,Ground,,Water's-edge,Brown,quadruped body,Poison,Grass,Electric,Water
+451,Skorupi,Poison,Bug,Urban,Purple,insectoid body,Fairy,Rock,Fighting,Ground
+452,Drapion,Poison,Dark,Urban,Purple,bipedal,Fairy,Rock,Fighting,Ground
+453,Croagunk,Poison,Fighting,Urban,Blue,bipedal,Fairy,Rock,Fighting,Ground
+454,Toxicroak,Poison,Fighting,Ueban,Blue,bipedal,Fairy,Rock,Fighting,Ground
+455,Carnivine,Grass,,Forest,Green,multiped body,Water,Fire,Electric,Flying
+456,Finneon,Water,,Sea,Blue,fins,Rock,Grass,Fire,Electric
+457,Lumineon,Water,,Sea,Blue,fins,Rock,Grass,Fire,Electric
+458,Mantyke,Water,Flying,Sea,Blue,pairs of wings,Rock,Grass,Fire,Electric
+459,Snover,Grass,Ice,Forest,White,bipedal,Water,Fire,Electric,Flying
+460,Abomasnow,Grass,Ice,Forest,White,bipedal,Water,Fire,Electric,Flying
+461,Weavile,Dark,Ice,Forest,Black,bipedal,Psychic,Fairy,Ghost,Fighting
+462,Magnezone,Electric,Steel,Mountain,Gray,head and arms,Water,Grass,Steel,Ground
+463,Lickilicky,Normal,,Forest,Pink,bipedal,Nothing,Rock,Ghost,Fighting
+464,Rhyperior,Ground,Rock,Mountain,Gray,bipedal,Poison,Grass,Electric,Water
+465,Tangrowth,Grass,,Florest,Blue,bipedal,Water,Fire,Electric,Flying
+466,Electivire,Electric,,Grassland,Yellow,bipedal,Water,Grass,Steel,Ground
+467,Magmortar,Fire,,Cave,Red,bipedal,Grass,Water,Ice,Rock
+468,Togekiss,Fairy,Flying,Forest,White,pairs of wings,Dark,Poison,Fighting,Steel
+469,Yanmega,Bug,Flying,Florest,Green,pairs of wings+,Grass,Fighting,Ground,Fire
+470,Leafeon,Grass,,Forest,Green,quadruped body,Water,Fire,Electric,Flying
+471,Glaceon,Ice,,Forest,Blue,quadruped body,Ground,Fire,Ice,Rock
+472,Gliscor,Ground,Flying,Mountain,Purple,pairs of wings,Poison,Grass,Electric,Water
+473,Mamoswine,Ice,Ground,Forest,Brown,quadruped body,Ground,Fire,Ice,Rock
+474,Porygon-Z,Normal,,Urban,Red,head and arms,Nothing,Rock,Ghost,Fighting
+475,Gallade,Psychic,Fighting,Urban,White,bipedal,Fighting,Dark        ,Fighting,Ghost
+476,Probopass,Rock,Steel,Mountain,Gray,multiple bodies,Flying,Steel,Fire,Water
+477,Dusknoir,Ghost,,Forest,Black,head and arms,Psychic,Normal,Fighting,Dark
+478,Froslass,Ice,Ghost,Sea,White,head and arms,Ground,Fire,Ice,Rock
+479,Rotom,Electric,Ghost,Urban,Red,only a head,Water,Grass,Steel,Ground
+480,Uxie,Psychic,,Rare,Yellow,bipedal,Fighting,Dark        ,Fighting,Ghost
+481,Mesprit,Psychic,,Rare,Pink,bipedal,Fighting,Dark        ,Fighting,Ghost
+482,Azelf,Psychic,,Rare,Blue,bipedal,Fighting,Dark        ,Fighting,Ghost
+483,Dialga,Steel,Dragon,Rare,Gray,quadruped body,Fairy,Electric,Dragon,Fire
+484,Palkia,Water,Dragon,Rare,Purple,bipedal,Rock,Grass,Fire,Electric
+485,Heatran,Fire,Steel,Rare,Red,quadruped body,Grass,Water,Ice,Rock
+486,Regigigas,Normal,,Rare,White,bipedal,Nothing,Rock,Ghost,Fighting
+487,Giratina,Ghost,Dragon,Rare,Black,serpentine body,Psychic,Normal,Fighting,Dark
+488,Cresselia,Psychic,,Urban,Pink,multiped body,Fighting,Dark        ,Fighting,Ghost
+489,Phione,Water,,Sea,Blue,head and arms,Rock,Grass,Fire,Electric
+490,Manaphy,Water,,Sea,Blue,bipedal,Rock,Grass,Fire,Electric
+491,Darkrai,Dark,,Cave,Black,bipedal,Psychic,Fairy,Ghost,Fighting
+492,Shaymin,Grass,,Florest,Green,quadruped body,Water,Fire,Electric,Flying
+493,Arceus,Normal,,Florest,White,quadruped body,Nothing,Rock,Ghost,Fighting
+494,Victini,Psychic,Fire,Urban,Yellow,bipedal,Fighting,Dark        ,Fighting,Ghost
+495,Snivy,Grass,,Grassland,Green,bipedal,Water,Fire,Electric,Flying
+496,Servine,Grass,,Grassland,Green,bipedal,Water,Fire,Electric,Flying
+497,Serperior,Grass,,Grassland,Green,serpentine body,Water,Fire,Electric,Flying
+498,Tepig,Fire,,Grassland,Red,quadruped body,Grass,Water,Ice,Rock
+499,Pignite,Fire,Fighting,Grassland,Red,bipedal,Grass,Water,Ice,Rock
+500,Emboar,Fire,Fighting,Grassland,Red,bipedal,Grass,Water,Ice,Rock
+501,Oshawott,Water,,Sea,Blue,bipedal,Rock,Grass,Fire,Electric
+502,Dewott,Water,,Sea,Blue,bipedal,Rock,Grass,Fire,Electric
+503,Samurott,Water,,Sea,Blue,quadruped body,Rock,Grass,Fire,Electric
+504,Patrat,Normal,,Grassland,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+505,Watchog,Normal,,Grassland,Brown,bipedal,Nothing,Rock,Ghost,Fighting
+506,Lillipup,Normal,,Urban,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+507,Herdier,Normal,,Urban,Gray,quadruped body,Nothing,Rock,Ghost,Fighting
+508,Stoutland,Normal,,Mountain,Gray,quadruped body,Nothing,Rock,Ghost,Fighting
+509,Purrloin,Dark,,Urban,Purple,quadruped body,Psychic,Fairy,Ghost,Fighting
+510,Liepard,Dark,,Urban,Purple,quadruped body,Psychic,Fairy,Ghost,Fighting
+511,Pansage,Grass,,Forest,Green,bipedal,Water,Fire,Electric,Flying
+512,Simisage,Grass,,Forest,Green,bipedal,Water,Fire,Electric,Flying
+513,Pansear,Fire,,Forest,Red,bipedal,Grass,Water,Ice,Rock
+514,Simisear,Fire,,Forest,Red,bipedal,Grass,Water,Ice,Rock
+515,Panpour,Water,,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+516,Simipour,Water,,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+517,Munna,Psychic,,Urban,Pink,quadruped body,Fighting,Dark        ,Fighting,Ghost
+518,Musharna,Psychic,,Urban,Pink,bipedal,Fighting,Dark        ,Fighting,Ghost
+519,Pidove,Normal,Flying,Grassland,Gray,pairs of wings,Nothing,Rock,Ghost,Fighting
+520,Tranquill,Normal,Flying,Grassland,Gray,pairs of wings,Nothing,Rock,Ghost,Fighting
+521,Unfezant,Normal,Flying,Grassland,Gray,pairs of wings,Nothing,Rock,Ghost,Fighting
+522,Blitzle,Electric,,Grassland,Black,quadruped body,Water,Grass,Steel,Ground
+523,Zebstrika,Electric,,Grassland,Black,quadruped body,Water,Grass,Steel,Ground
+524,Roggenrola,Rock,,Mountain,Blue,head and legs,Flying,Steel,Fire,Water
+525,Boldore,Rock,,Mountain,Blue,multiped body,Flying,Steel,Fire,Water
+526,Gigalith,Rock,,Mountain,Blue,multiped body,Flying,Steel,Fire,Water
+527,Woobat,Psychic,Flying,Forest,Blue,pairs of wings,Fighting,Dark        ,Fighting,Ghost
+528,Swoobat,Psychic,Flying,Forest,Blue,pairs of wings,Fighting,Dark        ,Fighting,Ghost
+529,Drilbur,Ground,,Cave,Gray,bipedal,Poison,Grass,Electric,Water
+530,Excadrill,Ground,Steel,Cave,Gray,bipedal,Poison,Grass,Electric,Water
+531,Audino,Normal,,Forest,Pink,bipedal,Nothing,Rock,Ghost,Fighting
+532,Timburr,Fighting,,Mountain,Gray,bipedal,Normal,Ghost,Rock,Psychic
+533,Gurdurr,Fighting,,Mountain,Gray,bipedal,Normal,Ghost,Rock,Psychic
+534,Conkeldurr,Fighting,,Mountain,Brown,bipedal,Normal,Ghost,Rock,Psychic
+535,Tympole,Water,,Water's-edge,Blue,fins,Rock,Grass,Fire,Electric
+536,Palpitoad,Water,Ground,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+537,Seismitoad,Water,Ground,Water's-edge,Blue,bipedal,Rock,Grass,Fire,Electric
+538,Throh,Fighting,,Mountain,Red,bipedal,Normal,Ghost,Rock,Psychic
+539,Sawk,Fighting,,Mountain,Blue,bipedal,Normal,Ghost,Rock,Psychic
+540,Sewaddle,Bug,Grass,Forest,Green,insectoid body,Grass,Fighting,Ground,Fire
+541,Swadloon,Bug,Grass,Forest,Green,head and arms,Grass,Fighting,Ground,Fire
+542,Leavanny,Bug,Grass,Forest,Green,bipedal,Grass,Fighting,Ground,Fire
+543,Venipede,Bug,Poison,Forest,Red,insectoid body,Grass,Fighting,Ground,Fire
+544,Whirlipede,Bug,Poison,Forest,Gray,only a head,Grass,Fighting,Ground,Fire
+545,Scolipede,Bug,Poison,Forest,Red,insectoid body,Grass,Fighting,Ground,Fire
+546,Cottonee,Grass,Fairy,Forest,Green,only a head,Water,Fire,Electric,Flying
+547,Whimsicott,Grass,Fairy,Forest,Green,bipedal,Water,Fire,Electric,Flying
+548,Petilil,Grass,,Forest,Green,head and base,Water,Fire,Electric,Flying
+549,Lilligant,Grass,,Forest,Green,head and base,Water,Fire,Electric,Flying
+550,Basculin,Water,,Water's-edge,Green,fins,Rock,Grass,Fire,Electric
+551,Sandile,Ground,Dark,Water's-edge,Brown,quadruped body,Poison,Grass,Electric,Water
+552,Krokorok,Ground,Dark,Water's-edge,Brown,quadruped body,Poison,Grass,Electric,Water
+553,Krookodile,Ground,Dark,Water's-edge,Red,bipedal,Poison,Grass,Electric,Water
+554,Darumaka,Fire,,Grassland,Red,bipedal,Grass,Water,Ice,Rock
+555,Darmanitan,Fire,,Grassland,Red,quadruped body,Grass,Water,Ice,Rock
+556,Maractus,Grass,,Mountain,Green,head and base,Water,Fire,Electric,Flying
+557,Dwebble,Bug,Rock,Cave,Red,insectoid body,Grass,Fighting,Ground,Fire
+558,Crustle,Bug,Rock,Cave,Red,insectoid body,Grass,Fighting,Ground,Fire
+559,Scraggy,Dark,Fighting,Cave,Yellow,bipedal,Psychic,Fairy,Ghost,Fighting
+560,Scrafty,Dark,Fighting,Cave,Red,bipedal,Psychic,Fairy,Ghost,Fighting
+561,Sigilyph,Psychic,Flying,Urban,Black,pairs of wings,Fighting,Dark        ,Fighting,Ghost
+562,Yamask,Ghost,,Urban,Black,head and arms,Psychic,Normal,Fighting,Dark
+563,Cofagrigus,Ghost,,Urban,Yellow,head and base,Psychic,Normal,Fighting,Dark
+564,Tirtouga,Water,Rock,Sea,Blue,quadruped body,Rock,Grass,Fire,Electric
+565,Carracosta,Water,Rock,Sea,Blue,bipedal,Rock,Grass,Fire,Electric
+566,Archen,Rock,Flying,Mountain,Yellow,pairs of wings,Flying,Steel,Fire,Water
+567,Archeops,Rock,Flying,Mountain,Yellow,pairs of wings,Flying,Steel,Fire,Water
+568,Trubbish,Poison,,Urban,Green,bipedal,Fairy,Rock,Fighting,Ground
+569,Garbodor,Poison,,Urban,Green,bipedal,Fairy,Rock,Fighting,Ground
+570,Zorua,Dark,,Urban,Gray,quadruped body,Psychic,Fairy,Ghost,Fighting
+571,Zoroark,Dark,,Urban,Gray,bipedal,Psychic,Fairy,Ghost,Fighting
+572,Minccino,Normal,,Mountain,Gray,quadruped body,Nothing,Rock,Ghost,Fighting
+573,Cinccino,Normal,,Mountain,Gray,quadruped body,Nothing,Rock,Ghost,Fighting
+574,Gothita,Psychic,,Urban,Purple,bipedal,Fighting,Dark        ,Fighting,Ghost
+575,Gothorita,Psychic,,Urban,Purple,bipedal,Fighting,Dark        ,Fighting,Ghost
+576,Gothitelle,Psychic,,Urban,Purple,bipedal,Fighting,Dark        ,Fighting,Ghost
+577,Solosis,Psychic,,Urban,Green,only a head,Fighting,Dark        ,Fighting,Ghost
+578,Duosion,Psychic,,Urban,Green,only a head,Fighting,Dark        ,Fighting,Ghost
+579,Reuniclus,Psychic,,Urban,Green,head and arms,Fighting,Dark        ,Fighting,Ghost
+580,Ducklett,Water,Flying,Water's-edge,Blue,pairs of wings,Rock,Grass,Fire,Electric
+581,Swanna,Water,Flying,Water's-edge,White,pairs of wings,Rock,Grass,Fire,Electric
+582,Vanillite,Ice,,Sea,White,head and base,Ground,Fire,Ice,Rock
+583,Vanillish,Ice,,Sea,White,head and base,Ground,Fire,Ice,Rock
+584,Vanilluxe,Ice,,Sea,White,multiple bodies,Ground,Fire,Ice,Rock
+585,Deerling,Normal,Grass,Mountain,Pink,quadruped body,Nothing,Rock,Ghost,Fighting
+586,Sawsbuck,Normal,Grass,Mountain,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+587,Emolga,Electric,Flying,Forest,White,quadruped body,Water,Grass,Steel,Ground
+588,Karrablast,Bug,,Forest,Blue,bipedal,Grass,Fighting,Ground,Fire
+589,Escavalier,Bug,Steel,Forest,Gray,head and arms,Grass,Fighting,Ground,Fire
+590,Foongus,Grass,Poison,Forest,White,head and arms,Water,Fire,Electric,Flying
+591,Amoonguss,Grass,Poison,Forest,White,head and arms,Water,Fire,Electric,Flying
+592,Frillish,Water,Ghost,Sea,White,multiped body,Rock,Grass,Fire,Electric
+593,Jellicent,Water,Ghost,Sea,White,multiped body,Rock,Grass,Fire,Electric
+594,Alomomola,Water,,Sea,White,fins,Rock,Grass,Fire,Electric
+595,Joltik,Bug,Electric,Forest,Yellow,insectoid body,Grass,Fighting,Ground,Fire
+596,Galvantula,Bug,Electric,Forest,Yellow,insectoid body,Grass,Fighting,Ground,Fire
+597,Ferroseed,Grass,Steel,Cave,Gray,only a head,Water,Fire,Electric,Flying
+598,Ferrothorn,Grass,Steel,Cave,Gray,multiped body,Water,Fire,Electric,Flying
+599,Klink,Steel,,Cave,Gray,multiple bodies,Fairy,Electric,Dragon,Fire
+600,Klang,Steel,,Cave,Gray,multiple bodies,Fairy,Electric,Dragon,Fire
+601,Klinklang,Steel,,Cave,Gray,multiple bodies,Fairy,Electric,Dragon,Fire
+602,Tynamo,Electric,,Cave,White,fins,Water,Grass,Steel,Ground
+603,Eelektrik,Electric,,Cave,Blue,fins,Water,Grass,Steel,Ground
+604,Eelektross,Electric,,Cave,Blue,fins,Water,Grass,Steel,Ground
+605,Elgyem,Psychic,,Urban,Blue,bipedal,Fighting,Dark        ,Fighting,Ghost
+606,Beheeyem,Psychic,,Urban,Brown,bipedal,Fighting,Dark        ,Fighting,Ghost
+607,Litwick,Ghost,Fire,Urban,White,head and base,Psychic,Normal,Fighting,Dark
+608,Lampent,Ghost,Fire,Urban,Black,head and arms,Psychic,Normal,Fighting,Dark
+609,Chandelure,Ghost,Fire,Urban,Black,head and arms,Psychic,Normal,Fighting,Dark
+610,Axew,Dragon,,Water's-edge,Green,bipedal,Dragon,Steel,Fire,Poison
+611,Fraxure,Dragon,,Water's-edge,Green,bipedal,Dragon,Steel,Fire,Poison
+612,Haxorus,Dragon,,Water's-edge,Yellow,bipedal,Dragon,Steel,Fire,Poison
+613,Cubchoo,Ice,,Sea,White,bipedal,Ground,Fire,Ice,Rock
+614,Beartic,Ice,,Sea,White,quadruped body,Ground,Fire,Ice,Rock
+615,Cryogonal,Ice,,Sea,Blue,only a head,Ground,Fire,Ice,Rock
+616,Shelmet,Bug,,Forest,Green,only a head,Grass,Fighting,Ground,Fire
+617,Accelgor,Bug,,Forest,Green,head and arms,Grass,Fighting,Ground,Fire
+618,Stunfisk,Ground,Electric,Mountain,Brown,fins,Poison,Grass,Electric,Water
+619,Mienfoo,Fighting,,Mountain,Yellow,bipedal,Normal,Ghost,Rock,Psychic
+620,Mienshao,Fighting,,Mountain,Purple,bipedal,Normal,Ghost,Rock,Psychic
+621,Druddigon,Dragon,,Cave,Red,bipedal,Dragon,Steel,Fire,Poison
+622,Golett,Ground,Ghost,Cave,Green,bipedal,Poison,Grass,Electric,Water
+623,Golurk,Ground,Ghost,Cave,Green,bipedal,Poison,Grass,Electric,Water
+624,Pawniard,Dark,Steel,Cave,Red,bipedal,Psychic,Fairy,Ghost,Fighting
+625,Bisharp,Dark,Steel,Cave,Red,bipedal,Psychic,Fairy,Ghost,Fighting
+626,Bouffalant,Normal,,Grassland,Brown,quadruped body,Nothing,Rock,Ghost,Fighting
+627,Rufflet,Normal,Flying,Forest,White,pairs of wings,Nothing,Rock,Ghost,Fighting
+628,Braviary,Normal,Flying,Forest,Red,pairs of wings,Nothing,Rock,Ghost,Fighting
+629,Vullaby,Dark,Flying,Grassland,Brown,pairs of wings,Psychic,Fairy,Ghost,Fighting
+630,Mandibuzz,Dark,Flying,Grassland,Brown,pairs of wings,Psychic,Fairy,Ghost,Fighting
+631,Heatmor,Fire,,Mountain,Red,bipedal,Grass,Water,Ice,Rock
+632,Durant,Bug,Steel,Mountain,Gray,insectoid body,Grass,Fighting,Ground,Fire
+633,Deino,Dark,Dragon,Cave,Blue,quadruped body,Psychic,Fairy,Ghost,Fighting
+634,Zweilous,Dark,Dragon,Cave,Blue,quadruped body,Psychic,Fairy,Ghost,Fighting
+635,Hydreigon,Dark,Dragon,Cave,Blue,bipedal,Psychic,Fairy,Ghost,Fighting
+636,Larvesta,Bug,Fire,Forest,Red,insectoid body,Grass,Fighting,Ground,Fire
+637,Volcarona,Bug,Fire,Forest,Red,pairs of wings+,Grass,Fighting,Ground,Fire
+638,Cobalion,Steel,Fighting,Mountain,Blue,quadruped body,Fairy,Electric,Dragon,Fire
+639,Terrakion,Rock,Fighting,Cave,Gray,quadruped body,Flying,Steel,Fire,Water
+640,Virizion,Grass,Fighting,Grassland,Green,quadruped body,Water,Fire,Electric,Flying
+641,Tornadus,Flying,,Grassland,Green,pairs of wings,Grass,Electric,Grass,Rock
+642,Thundurus,Electric,Flying,Grassland,Blue,pairs of wings,Water,Grass,Steel,Ground
+643,Reshiram,Dragon,Fire,Cave,White,pairs of wings,Dragon,Steel,Fire,Poison
+644,Zekrom,Dragon,Electric,Cave,Black,bipedal,Dragon,Steel,Fire,Poison
+645,Landorus,Ground,Flying,Cave,Brown,quadruped body,Poison,Grass,Electric,Water
+646,Kyurem,Dragon,Ice,Sea,Gray,bipedal,Dragon,Steel,Fire,Poison
+647,Keldeo,Water,Fighting,Sea,Yellow,quadruped body,Rock,Grass,Fire,Electric
+648,Meloetta,Normal,Psychic,Urban,White,bipedal,Nothing,Rock,Ghost,Fighting
+649,Genesect,Bug,Steel,Forest,Purple,bipedal,Grass,Fighting,Ground,Fire
+650,Chespin,Grass,,Grassland,Green,bipedal,Water,Fire,Electric,Flying
+651,Quilladin,Grass,,Grassland,Green,bipedal,Water,Fire,Electric,Flying
+652,Chesnaught,Grass,Fighting,Grassland,Green,bipedal,Water,Fire,Electric,Flying
+653,Fennekin,Fire,,Grassland,Red,quadruped body,Grass,Water,Ice,Rock
+654,Braixen,Fire,,Grassland,Red,bipedal,Grass,Water,Ice,Rock
+655,Delphox,Fire,Psychic,Grassland,Red,bipedal,Grass,Water,Ice,Rock
+656,Froakie,Water,,Sea,Blue,quadruped body,Rock,Grass,Fire,Electric
+657,Frogadier,Water,,Sea,Blue,bipedal,Rock,Grass,Fire,Electric
+658,Greninja,Water,Dark,Sea,Blue,bipedal,Rock,Grass,Fire,Electric
+659,Bunnelby,Normal,,Mountain,Brown,bipedal,Nothing,Rock,Ghost,Fighting
+660,Diggersby,Normal,Ground,Mountain,Brown,bipedal,Nothing,Rock,Ghost,Fighting
+661,Fletchling,Normal,Flying,Urban,Red,pairs of wings,Nothing,Rock,Ghost,Fighting
+662,Fletchinder,Fire,Flying,Mountain,Red,pairs of wings,Grass,Water,Ice,Rock
+663,Talonflame,Fire,Flying,Mountain,Red,pairs of wings,Grass,Water,Ice,Rock
+664,Scatterbug,Bug,,Forest,Black,insectoid body,Grass,Fighting,Ground,Fire
+665,Spewpa,Bug,,Forest,Black,head and base,Grass,Fighting,Ground,Fire
+666,Vivillon,Bug,Flying,Forest,White,pairs of wings+,Grass,Fighting,Ground,Fire
+667,Litleo,Fire,Normal,Grassland,Red,quadruped body,Grass,Water,Ice,Rock
+668,Pyroar,Fire,Normal,Grassland,Red,quadruped body,Grass,Water,Ice,Rock
+669,Flabébé,Fairy,,Urban,White,head and arms,Dark,Poison,Fighting,Steel
+670,Floette,Fairy,,Urban,White,head and arms,Dark,Poison,Fighting,Steel
+671,Florges,Fairy,,Urban,White,head and arms,Dark,Poison,Fighting,Steel
+672,Skiddo,Grass,,Mountain,Green,quadruped body,Water,Fire,Electric,Flying
+673,Gogoat,Grass,,Mountain,Green,quadruped body,Water,Fire,Electric,Flying
+674,Pancham,Fighting,,Mountain,White,bipedal,Normal,Ghost,Rock,Psychic
+675,Pangoro,Fighting,Dark,Mountain,White,bipedal,Normal,Ghost,Rock,Psychic
+676,Furfrou,Normal,,Urban,White,quadruped body,Nothing,Rock,Ghost,Fighting
+677,Espurr,Psychic,,Urban,Gray,bipedal,Fighting,Dark        ,Fighting,Ghost
+678,Meowstic,Psychic,,Urban,Blue,bipedal,Fighting,Dark        ,Fighting,Ghost
+679,Honedge,Steel,Ghost,Urban,Brown,head and base,Fairy,Electric,Dragon,Fire
+680,Doublade,Steel,Ghost,Urban,Brown,multiple bodies,Fairy,Electric,Dragon,Fire
+681,Aegislash,Steel,Ghost,Urban,Brown,head and base,Fairy,Electric,Dragon,Fire
+682,Spritzee,Fairy,,Urban,Pink,head and arms,Dark,Poison,Fighting,Steel
+683,Aromatisse,Fairy,,Urban,Pink,bipedal,Dark,Poison,Fighting,Steel
+684,Swirlix,Fairy,,Urban,White,head and legs,Dark,Poison,Fighting,Steel
+685,Slurpuff,Fairy,,Urban,White,bipedal,Dark,Poison,Fighting,Steel
+686,Inkay,Dark,Psychic,Sea,Blue,multiped body,Psychic,Fairy,Ghost,Fighting
+687,Malamar,Dark,Psychic,Mountain,Blue,head and base,Psychic,Fairy,Ghost,Fighting
+688,Binacle,Rock,Water,Mountain,Brown,multiple bodies,Flying,Steel,Fire,Water
+689,Barbaracle,Rock,Water,Mountain,Brown,multiple bodies,Flying,Steel,Fire,Water
+690,Skrelp,Poison,Water,Sea,Brown,head and base,Fairy,Rock,Fighting,Ground
+691,Dragalge,Poison,Dragon,Sea,Brown,head and base,Fairy,Rock,Fighting,Ground
+692,Clauncher,Water,,Sea,Blue,insectoid body,Rock,Grass,Fire,Electric
+693,Clawitzer,Water,,Sea,Blue,serpentine body,Rock,Grass,Fire,Electric
+694,Helioptile,Electric,Normal,Urban,Yellow,bipedal,Water,Grass,Steel,Ground
+695,Heliolisk,Electric,Normal,Urban,Yellow,bipedal,Water,Grass,Steel,Ground
+696,Tyrunt,Rock,Dragon,Mountain,Brown,bipedal,Flying,Steel,Fire,Water
+697,Tyrantrum,Rock,Dragon,Mountain,Red,bipedal,Flying,Steel,Fire,Water
+698,Amaura,Rock,Ice,Mountain,Blue,quadruped body,Flying,Steel,Fire,Water
+699,Aurorus,Rock,Ice,Mountain,Blue,quadruped body,Flying,Steel,Fire,Water
+700,Sylveon,Fairy,,Urban,Pink,quadruped body,Dark,Poison,Fighting,Steel
+701,Hawlucha,Fighting,Flying,Forest,Green,bipedal,Normal,Ghost,Rock,Psychic
+702,Dedenne,Electric,Fairy,Urban,Yellow,bipedal,Water,Grass,Steel,Ground
+703,Carbink,Rock,Fairy,Cave,Gray,only a head,Flying,Steel,Fire,Water
+704,Goomy,Dragon,,Mountain,Purple,serpentine body,Dragon,Steel,Fire,Poison
+705,Sliggoo,Dragon,,Mountain,Purple,serpentine body,Dragon,Steel,Fire,Poison
+706,Goodra,Dragon,,Mountain,Purple,bipedal,Dragon,Steel,Fire,Poison
+707,Klefki,Steel,Fairy,Urban,Gray,only a head,Fairy,Electric,Dragon,Fire
+708,Phantump,Ghost,Grass,Forest,Brown,head and arms,Psychic,Normal,Fighting,Dark
+709,Trevenant,Ghost,Grass,Forest,Brown,multiped body,Psychic,Normal,Fighting,Dark
+710,Pumpkaboo,Ghost,Grass,Urban,Brown,only a head,Psychic,Normal,Fighting,Dark
+711,Gourgeist,Ghost,Grass,Urban,Brown,head and base,Psychic,Normal,Fighting,Dark
+712,Bergmite,Ice,,Sea,Blue,quadruped body,Ground,Fire,Ice,Rock
+713,Avalugg,Ice,,Sea,Blue,quadruped body,Ground,Fire,Ice,Rock
+714,Noibat,Flying,Dragon,Cave,Purple,pairs of wings,Grass,Electric,Grass,Rock
+715,Noivern,Flying,Dragon,Cave,Purple,pairs of wings,Grass,Electric,Grass,Rock
+716,Xerneas,Fairy,,Urban,Blue,quadruped body,Dark,Poison,Fighting,Steel
+717,Yveltal,Dark,Flying,Cave,Black,pairs of wings,Psychic,Fairy,Ghost,Fighting
+718,Zygarde,Dragon,Ground,Mountain,Black,quadruped body,Dragon,Steel,Fire,Poison
