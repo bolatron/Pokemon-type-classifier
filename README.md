@@ -1,6 +1,3 @@
-# Arthur Gabriel, 2019
-# DCOMP, Universidade de São João del-Rei
-
 ![](TP_AM-1.png)
 ![](TP_AM-2.png)
 ![](TP_AM-3.png)
