@@ -3,6 +3,7 @@
 ![](TP_AM-3.png)
 ![](TP_AM-4.png)
 ![](TP_AM-5.png)
+![](TP_AM-6.png)
 
 Bibliotecas necessarias para executar tp1.py:
 
