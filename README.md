@@ -1,9 +1,11 @@
 # Arthur Gabriel, 2019
 # DCOMP, Universidade de São João del-Rei
 
-Algoritmo implementado: Rede MLP
-
-Algoritmos usados: MLP, CART, ID3
+![](TP_AM-1.png)
+![](TP_AM-2.png)
+![](TP_AM-3.png)
+![](TP_AM-4.png)
+![](TP_AM-5.png)
 
 Bibliotecas necessarias para executar tp1.py:
 
